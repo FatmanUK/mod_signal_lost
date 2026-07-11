@@ -1,0 +1,23 @@
+Pattern 03: The Melody (Part B)
+
+This pattern keeps the heavy beat but shifts the lead melody to create a "B section" that resolves the phrase you started in Pattern 02.
+
+(Rows to hex.)
+
+Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
+00: F-3 04 C40    | C-4 03 C20   | G-4 06 C40   | C-4 01 C40
+04: -             | C-4 02 C40   | --- -- 484   | -
+08: -             | C-4 03 C20   | F-4 06 C40   | -
+12: -             | C-4 02 C40   | --- -- 484   | -
+16: G-3 04 C40    | C-4 03 C20   | D#4 06 C40   | C-4 01 C40
+20: -             | C-4 02 C40   | --- -- 484   | -
+24: -             | C-4 03 C20   | C-4 06 C40   | C-4 01 C40
+28: -             | C-4 02 C40   | --- -- 484   | -
+32: F-3 04 C40    | C-4 03 C20   | F-4 06 C40   | C-4 01 C40
+36: -             | C-4 02 C40   | --- -- 484   | -
+40: -             | C-4 03 C20   | D#4 06 C40   | -
+44: -             | C-4 02 C40   | --- -- 484   | -
+48: C-3 04 C40    | C-4 03 C20   | C-4 06 C40   | C-4 01 C40
+52: -             | C-4 02 C40   | --- -- 484   | -
+56: -             | C-4 03 C20   | G-3 06 C40   | C-4 01 C40
+60: -             | C-4 02 C40   | --- -- 484   | -

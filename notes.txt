@@ -1,0 +1,43 @@
+Hex ID,Instrument,Description & PT Usage
+01,Kick Drum,"A punchy, synthetic or 909-style kick."
+02,Snare Drum,A crisp snare or rimshot.
+03,Hi-Hat,A closed electronic hi-hat. (We will use volume cuts to simulate an open hat).
+04,Bass,"A dark, FM-style solid bass synth. Needs to loop seamlessly."
+05,Pad/Choir,"A breathy, synthetic choir or string pad. Ensure the sample loops."
+06,Lead Synth,"A simple, slightly hollow sine or square wave."
+07,Noise FX,An atmospheric burst of white noise or a sci-fi sweep.
+08,Crash,"A metallic cymbal, downsampled for that crunchy 8-bit Amiga sound."
+
+Slot,Instrument,Description & PT Usage
+01,Kick Drum,"Punchy, synthetic or 909-style kick."
+02,Snare Drum,Crisp snare or rimshot.
+03,Hi-Hat,Closed electronic hi-hat.
+04,Bass,"Dark, solid bass synth (ensure it loops)."
+05,Pad/Choir,"Breathy, synthetic string or choir pad (ensure it loops)."
+06,Lead Synth,"Simple, slightly hollow sine or square wave."
+07,Noise FX,Atmospheric burst of white noise or a sci-fi sweep.
+08,Crash,"Metallic cymbal, downsampled."
+
+Hex ID,Instrument,Loop Setting,Why?
+01,Kick Drum,No Loop (One-shot),Percussive impact. Plays once and decays naturally.
+02,Snare Drum,No Loop (One-shot),Percussive impact.
+03,Hi-Hat,No Loop (One-shot),"Short, sharp hit."
+04,Bass Synth,Forward Loop,Absolutely required. Must sustain the long drone notes we wrote in Pattern 00.
+05,Pad / Choir,Forward Loop,"Absolutely required. Must sustain indefinitely so we can do our long, slow volume fade-ins using Cxx commands."
+06,Lead Synth,Forward Loop,Required for the melody we will write later. Allows for held notes of any length.
+07,Noise FX,Forward Loop,"As we just covered, this allows a tiny burst of static to become an infinite wall of noise."
+08,Crash,No Loop (One-shot),Let the metallic ring decay naturally.
+
+The "Composer's Pass" Principles:
+
+    Removing "Clutter" Notes: In your patterns, we have been triggering the lead (06) on almost every beat. Let’s remove every second note and replace them with a 1xx (Portamento up) or 2xx (Portamento down) command. This creates a "sliding" effect that sounds much more organic and less "staccato."
+
+    Arpeggio Automation: Instead of manually inputting a chord (e.g., C-E-G), we can put a single note down and use the 0xy effect to cycle through those notes rapidly. It saves space and adds that signature "chiptune wobble."
+
+Where to prune elsewhere:
+
+    The Bass (04): In patterns 01 and 06, you don't need a bass note on every single beat. Try removing the bass note on Row 04 and Row 12. The kick drum will imply the rhythm, and the bass will sound "punchier" when it does hit on the 1st and 3rd beats.
+
+    The Hi-Hats (01): Instead of a continuous 16th-note stream, try a "gallop" pattern. Keep the hats on rows 00, 04, 08, 12 (the standard pulse), but remove the ones on 02, 06, 10, 14. It immediately makes the track sound less "mechanical" and more like a live drummer.
+
+    The Pad (05): Since this is an ambient element, you only need to trigger it once every 16 rows. Use the Cxx volume slide effect to make it swell and recede over the course of the pattern rather than having it "re-trigger" its attack phase constantly.

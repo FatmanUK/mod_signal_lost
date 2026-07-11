@@ -1,0 +1,80 @@
+Pattern 00: Intro & Structural Build
+
+We won't bring in the heavy kick and snare yet. Instead, we are going to establish a dark, brooding atmosphere with a low bass drone on Channel 1 (Hard Left), a slowly fading-in choir/pad on Channel 3 (Hard Right), and some sparse, nervous hi-hats on Channel 2 (Hard Right) to start building rhythmic pulse.
+
+(Choose one of these.)
+
+Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
+00: C-3 04 E00    | --- -- F06   | C-4 05 C10   | --- -- F6E
+04: -             | -            | --- -- C18   | -
+08: -             | -            | --- -- C20   | -
+0C: -             | -            | --- -- C28   | -
+10: G-2 04 C40    | -            | --- -- C30   | -
+18: -             | -            | --- -- C38   | -
+20: C-3 04 C40    | C-4 03 C20   | --- -- C40   | -
+22: -             | C-4 03 C10   | -            | -
+26: -             | C-4 03 C20   | -            | -
+28: -             | C-4 03 C10   | -            | -
+30: F-2 04 C40    | C-4 03 C20   | -            | -
+32: -             | C-4 03 C10   | -            | -
+36: -             | C-4 03 C20   | -            | -
+38: -             | C-4 03 C10   | -            | C-4 07 C20
+3C: -             | -            | -            | --- -- C30
+3E: -             | -            | -            | --- -- C40
+
+This pattern establishes a dark, brooding atmosphere. A low bass drone sits on Channel 1, a slowly fading-in choir/pad swells on Channel 3, and sparse, nervous hi-hats begin on Channel 2 to build rhythmic tension.
+
+Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
+00: C-3 04 E00    | --- -- F06   | C-4 05 C10   | --- -- F6E
+04: -             | -            | --- -- C18   | -
+08: -             | -            | --- -- C20   | -
+0C: -             | -            | --- -- C28   | -
+10: G-2 04 C40    | -            | --- -- C30   | -
+18: -             | -            | --- -- C38   | -
+20: C-3 04 C40    | C-4 03 C20   | --- -- C40   | -
+22: -             | C-4 03 C10   | -            | -
+26: -             | C-4 03 C20   | -            | -
+28: -             | C-4 03 C10   | -            | -
+30: F-2 04 C40    | C-4 03 C20   | -            | -
+32: -             | C-4 03 C10   | -            | -
+36: -             | C-4 03 C20   | -            | -
+38: -             | C-4 03 C10   | -            | C-4 07 C20
+3C: -             | -            | -            | --- -- C30
+3E: -             | -            | -            | --- -- C40
+
+
+Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
+00: C-3 04 E00    | --- -- F06   | C-4 05 C10   | --- -- F6E
+04: -             | -            | --- -- C18   | -
+08: -             | -            | --- -- C20   | -
+0C: -             | -            | --- -- C28   | -
+10: G-2 04 C40    | -            | --- -- C30   | -
+18: -             | -            | --- -- C38   | -
+20: C-3 04 C40    | C-4 03 C20   | --- -- C40   | -
+22: -             | C-4 03 C10   | -            | -
+26: -             | C-4 03 C20   | -            | -
+28: -             | C-4 03 C10   | -            | -
+30: F-2 04 C40    | C-4 03 C20   | -            | -
+32: -             | C-4 03 C10   | -            | -
+36: -             | C-4 03 C20   | -            | -
+38: -             | C-4 03 C10   | -            | C-4 07 C20
+3C: -             | -            | -            | --- -- C30
+3E: -             | -            | -            | --- -- C40
+
+Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
+00: C-3 04 E00    | --- -- F06   | C-4 05 C10   | --- -- F6E
+04: -             | -            | --- -- C18   | -
+08: -             | -            | --- -- C20   | -
+0C: -             | -            | --- -- C28   | -
+10: G-3 04 C40    | -            | --- -- C30   | -
+18: -             | -            | --- -- C38   | -
+20: C-3 04 C40    | C-4 03 C20   | --- -- C40   | -
+22: -             | C-4 03 C10   | -            | -
+26: -             | C-4 03 C20   | -            | -
+28: -             | C-4 03 C10   | -            | -
+30: F-3 04 C40    | C-4 03 C20   | -            | -
+32: -             | C-4 03 C10   | -            | -
+36: -             | C-4 03 C20   | -            | -
+38: -             | C-4 03 C10   | -            | C-4 07 C20
+3C: -             | -            | -            | --- -- C30
+3E: -             | -            | -            | --- -- C40

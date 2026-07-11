@@ -1,0 +1,23 @@
+Pattern 04: The Breakdown
+
+We drop the kick and snare, bringing back the dark Pad (05) from your intro to create breathing room. The bass stays, anchored only by soft hi-hats.
+
+(Rows to hex.)
+
+Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
+00: F-3 04 C40    | C-4 08 C40   | C-4 05 C30   | -
+04: -             | C-4 03 C10   | -            | -
+08: -             | C-4 03 C10   | -            | -
+12: -             | C-4 03 C10   | -            | -
+16: G-3 04 C40    | C-4 03 C10   | -            | -
+20: -             | C-4 03 C10   | -            | -
+24: -             | C-4 03 C10   | -            | -
+28: -             | C-4 03 C10   | -            | -
+32: F-3 04 C40    | C-4 03 C10   | D-4 05 C30   | -
+36: -             | C-4 03 C10   | -            | -
+40: -             | C-4 03 C10   | -            | -
+44: -             | C-4 03 C10   | -            | -
+48: C-3 04 C40    | C-4 03 C10   | -            | -
+52: -             | C-4 03 C10   | -            | -
+56: -             | C-4 03 C10   | -            | -
+60: -             | C-4 03 C10   | -            | -

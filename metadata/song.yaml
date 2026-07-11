@@ -1,0 +1,36 @@
+---
+title: Signal Lost
+orderList:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 1
+  - 4
+  - 5
+  - 6
+  - 7
+  - 4
+  - 6
+  - 8
+speed: 6
+bpm: 0x6e
+samples:
+  - id: 1
+    source: st01
+    name: ST-01/CloseHiHat
+  - id: 3
+    source: st01
+    name: ST-01/Leader
+    start: 0x837
+    length: 0x41
+  - id: 4
+    source: st01
+    name: ST-01/DigDug
+    start: 0x96d
+    length: 0x281
+  - id: 5
+    source: st01
+    name: ST-01/Heaven
+    start: 0x1770
+    length: 0x60
