@@ -1,4 +1,5 @@
 ---
+# instrument IDs are wrong. err, must be the old loadout. find new instruments, must have been spec'd somewhere?
 title: Signal Lost
 orderList:
   - 0
@@ -15,7 +16,7 @@ orderList:
   - 8
 speed: 6
 bpm: 0x6e
-samples:
+instruments:
   - id: 1
     source: st01
     name: ST-01/CloseHiHat
