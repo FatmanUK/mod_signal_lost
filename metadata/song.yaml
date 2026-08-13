@@ -1,5 +1,4 @@
 ---
-# instrument IDs are wrong. err, must be the old loadout. find new instruments, must have been spec'd somewhere?
 title: Signal Lost
 orderList:
   - 0
@@ -19,19 +18,41 @@ bpm: 0x6e
 instruments:
   - id: 1
     source: st01
-    name: ST-01/CloseHiHat
+    name: ST-01/BassDrum1
+    volume: 0x38
+  - id: 2
+    source: st01
+    name: ST-01/Snare1
+    volume: 0x38
   - id: 3
     source: st01
-    name: ST-01/Leader
-    start: 0x837
-    length: 0x41
+    name: ST-01/CloseHiHat
+    volume: 0x20
   - id: 4
     source: st01
     name: ST-01/DigDug
-    start: 0x96d
-    length: 0x281
+    start: 0x221
+    length: 0x83
+    volume: 0x40
   - id: 5
-    source: st01
-    name: ST-01/Heaven
+    source: st02
+    name: ST-02/Heaven
     start: 0x1770
     length: 0x60
+    volume: 0x28
+    finetune: 0xe
+  - id: 6
+    source: st01
+    name: ST-01/PolySynth
+    start: 0x2226
+    length: 0x047f
+    volume: 0x18
+    finetune: 0x2
+  - id: 7
+    source: st01
+    name: ST-02/swoop # too much fun!
+    volume: 0x10
+  - id: 8
+    source: st02
+    name: ST-02/Cymbal1
+    volume: 0x08
