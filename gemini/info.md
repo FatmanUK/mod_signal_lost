@@ -1,5 +1,40 @@
 # Design Lessons
 
+## Choice of AI Models
+
+Which model is required for the work of composing `.mod` tunes?
+
+Here's Gemini's opinion:
+
+> For tracking musical notation and hexadecimal effects tables, **Gemini Pro with the "Extended" thinking level enabled** is going to be your absolute best tool.
+> 
+> Here is why:
+> 
+> * **Why Pro (over Flash or Flash-Lite):** Pro models are built for deep reasoning, structural logic, and strict formatting. Composing tracker modules requires aligning text characters perfectly into rigid vertical columns (Note | Instrument | Volume | Effect). Pro handles this spatial formatting vastly better than the faster, lighter models, which are prone to drifting or getting column alignments wrong.
+> * **Why the "Extended" thinking level (over Standard):** Standard thinking is great for fast text generation or quick answers. However, translating a musical idea into abstract hexadecimal command codes (like calculating pitch slides, arpeggios, or sample offsets) is highly analytical. Giving the model the extra time to use "Extended" thinking allows it to double-check its math and pattern length before it outputs the code block, ensuring your tracker patterns actually make musical sense when you play them back.
+
+Also, Flash-Lite is as stupid as mud. It's not even reliable to summarise its own conversations. It's great for quick opinions, but not accurate writing. Non-Lite Flash is good for summaries.
+
+## Samples Before Patterns
+
+Define your sample roster first. Then write patterns for them. I got this wrong with Signal Lost and sacrificed greatness.
+
+## Composer's Pass
+
+Don't do this before version 1 is finalised. Best not use the bot for this.
+
+## Useful Prompts
+
+### Too Eager with the Bootstrap Files
+
+`Don't show me a bootstrap file until I ask for it, please.`
+
+### Scold Bot for Coyness
+
+After many attempts at a simple task and finally admitting it was missing some vital data (which I immediately uploaded):
+
+`When this kind of issue occurs you need to be completely honest and say so up front. Then I can fix it. If you keep it secret I can't.`
+
 ## Story
 
 Before composing any patterns, have the bot write a simple one-line story outline matching each pattern, based on the song title. I know that sounds crazy, but it provides a seed for thematic structure. ChatGPT did this for Cold Boot without being asked, and as a result the mod sounds thematically consistent, unlike Signal Lost which sounds completely unconnected.
