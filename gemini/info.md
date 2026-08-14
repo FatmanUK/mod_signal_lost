@@ -4,6 +4,8 @@
 
 Which model is required for the work of composing `.mod` tunes?
 
+I was able to debug a horrible spec bug using Claude Sonnet 5 (Medium) which Gemini Pro couldn't figure out. Sonnet 5 is impressive. It might be able to compose.
+
 Here's Gemini's opinion:
 
 > For tracking musical notation and hexadecimal effects tables, **Gemini Pro with the "Extended" thinking level enabled** is going to be your absolute best tool.
@@ -15,9 +17,33 @@ Here's Gemini's opinion:
 
 Also, Flash-Lite is as stupid as mud. It's not even reliable to summarise its own conversations. It's great for quick opinions, but not accurate writing. Non-Lite Flash is good for summaries.
 
+## Git
+
+The entire `.mod` can be represented as text, so a Git repository is a perfect match for version control.
+
+> I approve of that blend of eras. 😄
+> 
+> You're essentially giving a 1992 workflow a 2026 safety net.
+
 ## Samples Before Patterns
 
 Define your sample roster first. Then write patterns for them. I got this wrong with Signal Lost and sacrificed greatness.
+
+## Quality Pass
+
+(Optional, from branch):
+Check:
+
+- four-channel voice leading,
+- note stealing,
+- impossible overlaps,
+- pattern transitions,
+- seamless loop,
+- whether it actually sounds like Cold Boot rather than just "generic Amiga."
+
+That quality pass is likely to catch little issues that would otherwise have you editing patterns later.
+
+(From the branch. I don't know what any of these mean. I suspect it's not needed.)
 
 ## Composer's Pass
 

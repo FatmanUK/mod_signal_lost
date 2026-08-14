@@ -98,6 +98,25 @@ If it doesn't suggest these things itself.
 
 ---
 
+(Optional: branch) Goal: Motif map.
+
+> Write what I call a motif map first.
+> 
+> For example:
+> 
+> Motif A: heartbeat kick + bass pulse
+> Motif B: descending pad figure
+> Motif C: metallic chime
+> Motif D: chromatic tension figure
+> 
+> Then each pattern becomes a recombination of those motifs.
+> 
+> That's very much how experienced tracker composers worked. It keeps the music coherent while making the most of limited memory.
+
+This was originally its response from the other branch. I don't know what effect this would have had.
+
+---
+
 Goal: Name that tune.
 
 > Suggest some song names.
@@ -255,5 +274,8 @@ Goal: Save progress.
 This is a good time for a snapshot.
 
 ---
+
+> That's the contract carved in stone. 🙂
+> From here on, you are the composer, not the architect.
 
 Now we just enter a loop of creating and auditioning patterns. And that's it.
