@@ -35,8 +35,8 @@ instruments:
     length: 0x83
     volume: 0x40
   - id: 5
-    source: st02
-    name: ST-02/Heaven
+    source: st01
+    name: ST-01/Heaven
     start: 0x1770
     length: 0x60
     volume: 0x28
@@ -49,7 +49,7 @@ instruments:
     volume: 0x18
     finetune: 0x2
   - id: 7
-    source: st01
+    source: st02
     name: ST-02/swoop # too much fun!
     volume: 0x10
   - id: 8
