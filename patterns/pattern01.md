@@ -5,7 +5,7 @@ In classic 4-channel Amiga tracking, you have to be clever with how you share ch
 Notice how we use volume commands (C20, C10) on the Hi-Hats to give them a dynamic, grooving feel (accented and unaccented notes), and how the Kick drum plays a syncopated breakbeat pattern rather than a straight 4-on-the-floor.
 
 Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
-00: F-3 04 C40    | C-4 03 C40   | C-4 05 C38   | C-4 01 C40
+00: F-3 04 ---    | C-4 03 C40   | C-4 05 C38   | C-4 01 ---
 02: -             | C-4 03 C30   | -            | -
 04: -             | C-4 02 C40   | -            | -
 06: -             | C-4 03 C30   | -            | -

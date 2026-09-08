@@ -102,6 +102,8 @@ Because they were recording raw audio from analog gear, the pitch wasn't always 
 
 If you play them together, they will clash and sound terribly out of tune, even though you typed the exact same note (C-3) into your pattern!
 
+The cheat's way to sort out finetune is to look up historically used values, if using well-known samples such as those from ST-01 and ST-02.
+
 ### What Finetune Does
 
 Finetune is a setting in the instrument header that lets you subtly nudge the pitch of a sample up or down by a fraction of a semitone.
@@ -128,3 +130,11 @@ To get DigDug, Heaven, and PolySynth playing nicely together, you don't need abs
 2. Play a Drone: Go to a blank pattern, put a continuous C-3 note on Channel 1 using DigDug. Let it loop over and over.
 3. Tune the Pad: Put a continuous C-3 note on Channel 2 using Heaven. Listen to them together. If it sounds "wobbly" or dissonant, adjust the Finetune on Heaven up or down one notch at a time until the wobble disappears and they sound locked together.
 4. Tune the Lead: Repeat the process for PolySynth.
+
+## Notes
+
+Deep bass instruments should probably not be used in octave 3 as they're likely too low. The converse is probably true of high instruments.
+
+Of course, the bot doesn't have ears and can't tell what sounds good. This suggests that we should limit octave ranges per instrument before composing.
+
+Also, loopability should be established first. If a sample proves unloopable, it should be known before composition begins.

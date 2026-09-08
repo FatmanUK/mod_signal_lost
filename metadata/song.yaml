@@ -1,7 +1,7 @@
 ---
-title: Signal Lost
+title: 'Signal Lost'
+message: 'An awesome toe-tapping     loading tune                            Written with Gemini         Pro mode         With interruptions     and interference    by Millie  >^._.^<~~ '
 orderList:
-  - 0
   - 1
   - 2
   - 3
@@ -10,49 +10,52 @@ orderList:
   - 5
   - 6
   - 7
+  - 1
+  - 2
+  - 3
   - 4
   - 6
-  - 8
+  - 0
 speed: 6
 bpm: 0x6e
 instruments:
   - id: 1
-    source: st01
-    name: ST-01/BassDrum1
+    source: 'st01'
+    name: 'ST-01/BassDrum1'
     volume: 0x38
   - id: 2
-    source: st01
-    name: ST-01/Snare1
+    source: 'st01'
+    name: 'ST-01/Snare1'
     volume: 0x38
   - id: 3
-    source: st01
-    name: ST-01/CloseHiHat
+    source: 'st01'
+    name: 'ST-01/CloseHiHat'
     volume: 0x20
   - id: 4
-    source: st01
-    name: ST-01/DigDug
+    source: 'st01'
+    name: 'ST-01/DigDug'
     start: 0x221
     length: 0x83
     volume: 0x40
   - id: 5
-    source: st01
-    name: ST-01/Heaven
+    source: 'st01'
+    name: 'ST-01/Heaven'
     start: 0x1770
     length: 0x60
     volume: 0x28
     finetune: 0xe
   - id: 6
-    source: st01
-    name: ST-01/PolySynth
+    source: 'st01'
+    name: 'ST-01/PolySynth'
     start: 0x2226
     length: 0x047f
     volume: 0x18
     finetune: 0x2
   - id: 7
-    source: st02
-    name: ST-02/swoop # too much fun!
+    source: 'st02'
+    name: 'ST-02/swoop' # too much fun!
     volume: 0x10
   - id: 8
-    source: st02
-    name: ST-02/Cymbal1
+    source: 'st02'
+    name: 'ST-02/Cymbal1'
     volume: 0x08

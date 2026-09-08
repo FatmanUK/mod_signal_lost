@@ -5,19 +5,4 @@ We won't bring in the heavy kick and snare yet. Instead, we are going to establi
 This pattern establishes a dark, brooding atmosphere. A low bass drone sits on Channel 1, a slowly fading-in choir/pad swells on Channel 3, and sparse, nervous hi-hats begin on Channel 2 to build rhythmic tension.
 
 Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
-00: C-3 04 E00    | -            | C-4 05 C10   | -
-04: -             | -            | --- -- C18   | -
-08: -             | -            | --- -- C20   | -
-0C: -             | -            | --- -- C28   | -
-10: G-3 04 C40    | -            | --- -- C30   | -
-18: -             | -            | --- -- C38   | -
-20: C-3 04 C40    | C-4 03 C40   | --- -- C40   | -
-22: -             | C-4 03 C30   | -            | -
-26: -             | C-4 03 C40   | -            | -
-28: -             | C-4 03 C30   | -            | -
-30: F-3 04 C40    | C-4 03 C40   | -            | -
-32: -             | C-4 03 C30   | -            | -
-36: -             | C-4 03 C40   | -            | -
-38: -             | C-4 03 C30   | -            | C-4 07 C20
-3C: -             | -            | -            | --- -- C30
-3E: -             | -            | -            | --- -- C40
+00: -             | -            | --- -- B00   | -
