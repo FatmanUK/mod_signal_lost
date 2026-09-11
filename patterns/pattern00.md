@@ -1,8 +1,39 @@
-Pattern 00: Intro & Structural Build
+Pattern 01: The Drop
 
-We won't bring in the heavy kick and snare yet. Instead, we are going to establish a dark, brooding atmosphere with a low bass drone on Channel 1 (Hard Left), a slowly fading-in choir/pad on Channel 3 (Hard Right), and some sparse, nervous hi-hats on Channel 2 (Hard Right) to start building rhythmic pulse.
+In classic 4-channel Amiga tracking, you have to be clever with how you share channels. We will put the Bass on Channel 1 (Hard Left), the Kick on Channel 4 (Hard Left), and let the Snare and Hi-Hats share Channel 2 (Hard Right). The Pad will continue to hold the atmosphere on Channel 3 (Hard Right).
 
-This pattern establishes a dark, brooding atmosphere. A low bass drone sits on Channel 1, a slowly fading-in choir/pad swells on Channel 3, and sparse, nervous hi-hats begin on Channel 2 to build rhythmic tension.
+Notice how we use volume commands (C20, C10) on the Hi-Hats to give them a dynamic, grooving feel (accented and unaccented notes), and how the Kick drum plays a syncopated breakbeat pattern rather than a straight 4-on-the-floor.
 
 Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
-00: -             | -            | --- -- B00   | -
+00: F-4 04 ---    | C-4 03 E00   | C-4 05 C38   | C-4 01 ---
+02: -             | C-4 03 C30   | -            | -
+04: -             | C-4 02 C40   | -            | -
+06: -             | C-4 03 C30   | -            | -
+07: -             | -            | -            | C-4 01 C40
+08: -             | C-4 03 C40   | -            | -
+0A: -             | C-4 03 C30   | -            | C-4 01 C30
+0C: -             | C-4 02 C40   | -            | -
+0E: -             | C-4 03 C30   | -            | -
+10: G-4 04 ---    | C-4 03 C40   | -            | C-4 01 C40
+12: -             | C-4 03 C30   | -            | -
+14: -             | C-4 02 C40   | -            | -
+16: -             | C-4 03 C30   | -            | -
+18: -             | C-4 03 C40   | -            | C-4 01 C40
+1C: -             | C-4 02 C40   | -            | -
+1E: -             | C-4 03 C30   | -            | C-4 01 C30
+20: F-4 04 ---    | C-4 03 C40   | D-4 05 C38   | C-4 01 C40
+22: -             | C-4 03 C30   | -            | -
+24: -             | C-4 02 C40   | -            | -
+26: -             | C-4 03 C30   | -            | -
+27: -             | -            | -            | C-4 01 C40
+28: -             | C-4 03 C40   | -            | -
+2A: -             | C-4 03 C30   | -            | C-4 01 C30
+2C: -             | C-4 02 C40   | -            | -
+2E: -             | C-4 03 C30   | -            | -
+30: C-4 04 ---    | C-4 03 C40   | -            | C-4 01 C40
+32: -             | C-4 03 C30   | -            | -
+34: -             | C-4 02 C40   | -            | -
+36: -             | C-4 03 C30   | -            | -
+38: -             | C-4 03 C40   | -            | C-4 01 C40
+3C: -             | C-4 02 C40   | -            | -
+3E: -             | C-4 03 C30   | -            | -

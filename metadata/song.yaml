@@ -1,21 +1,20 @@
 ---
 title: 'Signal Lost'
-message: 'An awesome toe-tapping     loading tune                            Written with Gemini         Pro mode         With interruptions     and interference    by Millie  >^._.^<~~ '
+message: 'An awesome toe-tapping     loading tune      by Adam J Richardson  Written with Gemini         Pro mode         With interruptions     and interference    by Millie  >^._.^<~~ '
 orderList:
+  - 0
   - 1
   - 2
+  - 0
   - 3
-  - 1
   - 4
   - 5
   - 6
-  - 7
+  - 0
   - 1
   - 2
   - 3
-  - 4
-  - 6
-  - 0
+  - 5
 speed: 6
 bpm: 0x6e
 instruments:
@@ -36,7 +35,7 @@ instruments:
     name: 'ST-01/DigDug'
     start: 0x221
     length: 0x83
-    volume: 0x40
+    volume: 0x10
   - id: 5
     source: 'st01'
     name: 'ST-01/Heaven'

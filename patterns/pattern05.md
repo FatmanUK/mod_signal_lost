@@ -1,21 +1,21 @@
-Pattern 05: The Build-Up
+Pattern 06: The Climax (Lead Arp)
 
-The kick returns. The snare executes a classic tracker roll (rows 48-60) ramping up in volume to push us into the final climax, while the noise sweep simulates a riser.
+Full energy. The Pad drops out again, replaced by a faster, rhythmic 16th-note lead pattern using the 06 placeholder.
 
 Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
-00: F-3 04 C40    | -            | C-4 05 C38   | C-4 01 C40
-08: -             | -            | -            | -
-10: G-3 04 C40    | -            | -            | C-4 01 C40
-18: -             | -            | -            | -
-20: F-3 04 C40    | -            | D-4 05 C40   | C-4 01 C40
-28: -             | -            | -            | C-4 07 C10
-2c: -             | -            | -            | --- -- C20
-2e: -             | -            | -            | --- -- C30
-30: C-3 04 C40    | C-4 02 C10   | -            | C-4 01 C40
-32: -             | C-4 02 C18   | -            | -
-34: -             | C-4 02 C20   | -            | -
-36: -             | C-4 02 C28   | -            | --- -- C20
-38: -             | C-4 02 C30   | -            | C-4 01 C40
-3A: -             | C-4 02 C38   | -            | -
-3C: -             | C-4 02 C40   | -            | --- -- C38
-3E: -             | C-4 02 C40   | -            | -
+00: F-4 04 ---    | C-4 08 C40   | C-5 06 C40   | C-4 01 C40
+04: -             | C-4 02 C40   | G-4 06 C30   | -
+08: -             | C-4 03 C40   | D#4 06 C40   | -
+0C: -             | C-4 02 C40   | G-4 06 C30   | -
+10: G-4 04 ---    | C-4 03 C40   | D-5 06 C40   | C-4 01 C40
+14: -             | C-4 02 C40   | G-4 06 C30   | -
+18: -             | C-4 03 C40   | F-4 06 C40   | C-4 01 C40
+1C: -             | C-4 02 C40   | G-4 06 C30   | -
+20: F-4 04 ---    | C-4 03 C40   | C-5 06 C40   | C-4 01 C40
+24: -             | C-4 02 C40   | G-4 06 C30   | -
+28: -             | C-4 03 C40   | D#4 06 C40   | -
+2C: -             | C-4 02 C40   | G-4 06 C30   | -
+30: C-4 04 ---    | C-4 03 C40   | A#4 06 C40   | C-4 01 C40
+34: -             | C-4 02 C40   | F-4 06 C30   | -
+38: -             | C-4 03 C40   | D-4 06 C40   | C-4 01 C40
+3C: -             | C-4 02 C40   | F-4 06 C30   | -
