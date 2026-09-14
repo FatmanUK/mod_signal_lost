@@ -5,15 +5,20 @@ orderList:
   - 0  # Pattern 00: The Drop
   - 1  # Pattern 01: The Melody
   - 2  # Pattern 02: The Melody Part B
-  - 0  # Pattern 00: The Drop
   - 3  # Pattern 03: The Breakdown
   - 4  # Pattern 04: The Build-Up
+  - 0  # Pattern 00: The Drop
+  - 9  # Pattern 09: The Interlude Groove
+  - 10 # Pattern 0a: The Tension Build
   - 5  # Pattern 05: The Climax (Lead Arp)
   - 6  # Pattern 06: Climax Resolve
   - 0  # Pattern 00: The Drop
+  - 1  # Pattern 01: The Melody
+  - 2  # Pattern 02: The Melody Part B
   - 7  # Pattern 07: The Deep Bridge
   - 8  # Pattern 08: The Syncopated Rise
   - 0  # Pattern 00: The Drop
+  - 9  # Pattern 09: The Interlude Groove
   - 5  # Pattern 05: The Climax (Lead Arp)
   - 6  # Pattern 06: Climax Resolve
 speed: 6
