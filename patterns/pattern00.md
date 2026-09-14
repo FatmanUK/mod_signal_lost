@@ -1,4 +1,4 @@
-Pattern 01: The Drop
+Pattern 00: The Drop
 
 In classic 4-channel Amiga tracking, you have to be clever with how you share channels. We will put the Bass on Channel 1 (Hard Left), the Kick on Channel 4 (Hard Left), and let the Snare and Hi-Hats share Channel 2 (Hard Right). The Pad will continue to hold the atmosphere on Channel 3 (Hard Right).
 

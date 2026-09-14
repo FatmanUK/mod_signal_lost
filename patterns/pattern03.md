@@ -1,4 +1,4 @@
-Pattern 04: The Breakdown
+Pattern 03: The Breakdown
 
 We drop the kick and snare, bringing back the dark Pad (05) from your intro to create breathing room. The bass stays, anchored only by soft hi-hats.
 

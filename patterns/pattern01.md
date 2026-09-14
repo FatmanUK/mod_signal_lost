@@ -1,4 +1,4 @@
-Pattern 02: The Melody
+Pattern 01: The Melody
 
 Row: [Ch 1]       | [Ch 2]       | [Ch 3]       | [Ch 4]
 00: F-4 04 ---    | C-4 08 C40   | C-4 06 C40   | C-4 01 C40

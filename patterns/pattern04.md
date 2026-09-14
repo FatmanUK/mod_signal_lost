@@ -1,4 +1,4 @@
-Pattern 05: The Build-Up
+Pattern 04: The Build-Up
 
 The kick returns. The snare executes a classic tracker roll (rows 48-60) ramping up in volume to push us into the final climax, while the noise sweep simulates a riser.
 

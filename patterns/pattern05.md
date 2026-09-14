@@ -1,4 +1,4 @@
-Pattern 06: The Climax (Lead Arp)
+Pattern 05: The Climax (Lead Arp)
 
 Full energy. The Pad drops out again, replaced by a faster, rhythmic 16th-note lead pattern using the 06 placeholder.
 

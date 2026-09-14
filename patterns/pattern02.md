@@ -1,4 +1,4 @@
-Pattern 03: The Melody (Part B)
+Pattern 02: The Melody (Part B)
 
 This pattern keeps the heavy beat but shifts the lead melody to create a "B section" that resolves the phrase you started in Pattern 02.
 

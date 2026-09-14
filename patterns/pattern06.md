@@ -1,4 +1,4 @@
-Pattern 07: Climax Resolve
+Pattern 06: Climax Resolve
 
 Similar rhythmic drive to 06, but descending to resolve the progression before the track washes out.
 
